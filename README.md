@@ -1,4 +1,4 @@
-# Building a MLR Predictive Model for University Score using Forward Selection
+# Building a MLR Predictive Model for Times Higher Education World University Rankings 2023 using Forward Selection
 
 Education is a major factor for both individual growth and the development of society. Year after year students around the globe compete to attend prestigious universities in order to graduate with a respectable diploma in the workplace. Consequently, university rankings and evaluation have appeared on the forefront of the media as prospective undergraduates attempt to navigate the increasingly complex and contradictory information online. While some quantitative measures such as campus size and number of students are easy to evaluate, performance indicators such as teaching quality and research advancement are less obvious. As a result, websites such as Maclean's Education and Times Higher Education (THE) have created university rankings in an attempt to compile and display collected data in an informative manner. However, this has led to disagreements as to the most important indicators in determining university rankings.
 
